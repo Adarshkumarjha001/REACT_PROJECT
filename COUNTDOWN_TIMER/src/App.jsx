@@ -9,7 +9,7 @@ function App() {
     if (count === null) return;
 
     if (count === 0) {
-      setBgColor("green");
+      setBgColor("red");
       return;
     }
 
